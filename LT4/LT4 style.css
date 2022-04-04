@@ -1,0 +1,33 @@
+body {
+    background-image: url(bckgrnd.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Poppins';
+
+}#header {
+	position: absolute;
+	width: 900px;
+	height: 200px;
+	margin: 8% 20%;
+	text-align: center;
+
+}#header h1 {
+	text-align: center;
+	color: #fff;
+	text-transform:none;
+	font-size: 50px;
+
+}#header h2 {
+	text-align: center;
+	color: #fff;
+	font-size: 18px;
+
+}p{
+    text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+	display: inline-block;
+	color: #fff;
+}
